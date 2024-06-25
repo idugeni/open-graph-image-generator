@@ -2,7 +2,7 @@ Open Graph Image Generator
 ==========================
 
 <p align="center">
-  <img src="https://opengraph.githubassets.com/0/eliyantosarage-dev/Open-Graph-Image-Generator" alt="Open Graph Image">
+  <img src="https://opengraph.githubassets.com/0/idugeni/Open-Graph-Image-Generator" alt="Open Graph Image">
 </p>
 
 Generate Open Graph images for your GitHub repositories with ease.
