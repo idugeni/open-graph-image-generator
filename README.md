@@ -2,7 +2,7 @@ Open Graph Image Generator
 ==========================
 
 <p align="center">
-  <img src="https://opengraph.githubassets.com/0/idugeni/Open-Graph-Image-Generator" alt="Open Graph Image">
+  <img src="https://opengraph.githubassets.com/ba48cab225ef8354c71500544e98b338/idugeni/open-graph-image-generator" alt="Open Graph Image">
 </p>
 
 Generate Open Graph images for your GitHub repositories with ease.
@@ -23,9 +23,9 @@ To generate an Open Graph image for a GitHub repository, use the following URL f
 
 ### Example
 
-For example, to generate an Open Graph image for the `eliyantosarage-dev/Open-Graph-Image-Generator` repository with a hash value of `abc123`, the URL would be:
+For example, to generate an Open Graph image for the `idugeni/open-graph-image-generator` repository with a hash value of `ba48cab225ef8354c71500544e98b338`, the URL would be:
 
-    https://opengraph.githubassets.com/abc123/eliyantosarage-dev/Open-Graph-Image-Generator
+    https://opengraph.githubassets.com/ba48cab225ef8354c71500544e98b338/idugeni/open-graph-image-generator
     
 
 Contributing
@@ -38,4 +38,4 @@ License
 
 This project is licensed under the MIT License.
 
-For more details, visit the original repository: [Open Graph Image Generator](https://github.com/eliyantosarage-dev/Open-Graph-Image-Generator)
+For more details, visit the original repository: [Open Graph Image Generator](https://github.com/idugeni/open-graph-image-generator)
